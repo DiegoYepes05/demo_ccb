@@ -6,6 +6,6 @@ class SwiperMock {
 
 final cardSwiper = <SwiperMock>[
   SwiperMock(imageUrl: 'assets/images/no-image.jpeg'),
-  SwiperMock(imageUrl: 'assets/images/no-image.jpeg'),
-  SwiperMock(imageUrl: 'assets/images/no-image.jpeg'),
+  SwiperMock(imageUrl: 'assets/images/p.jpeg'),
+  SwiperMock(imageUrl: 'assets/images/planetas.jpg'),
 ];
